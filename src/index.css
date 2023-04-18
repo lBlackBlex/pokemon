@@ -1,0 +1,17 @@
+
+@font-face {
+  font-family: 'Main';
+  src: local('PressStart2P-Regular'), url('./assets/Fonts/PressStart2P-Regular.ttf') format('truetype')
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  margin: 0;
+}
+
+* {
+  font-family: 'Main';
+}
